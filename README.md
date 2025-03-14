@@ -1,7 +1,7 @@
 # Machine Learning App with Streamlit
 An application to predict profit <br>
 This project is a Machine Learning App built using Streamlit, designed to analyze CSV files, perform data preprocessing, and predict outcomes using Linear Regression. The app allows users to upload a dataset, explore it through visualizations, clean and preprocess the data, and train a machine learning model to make predictions<br>
-**Features**
+**Features**<br>
 1. Data Visualization<br>
 Interactive Filters: Filter data based on categorical and numerical columns.<br>
 Graphical Visualizations: Generate various types of plots (scatter plots, line charts, bar charts, histograms) using Matplotlib, Seaborn, and Plotly.<br>
@@ -21,7 +21,7 @@ Interactive Widgets: Sliders, dropdowns, and buttons for easy interaction.<br>
 Tabs for Organization: Separate tabs for visualization, data cleaning, and prediction.<br>
 Dynamic Updates: Real-time updates based on user inputs.<br>
 
-**Technologies Used**
+**Technologies Used**<br>
 Streamlit: For building the interactive web app.<br>
 
 Pandas: For data manipulation and analysis.<br>
