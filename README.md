@@ -23,6 +23,7 @@ Tabs for Organization: Separate tabs for visualization, data cleaning, and predi
 Dynamic Updates: Real-time updates based on user inputs.<br>
 
 **Technologies Used**<br>
+
 Streamlit: For building the interactive web app.<br>
 Pandas: For data manipulation and analysis.<br>
 NumPy: For numerical computations.<br>
